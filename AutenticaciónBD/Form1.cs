@@ -63,7 +63,7 @@ namespace AutenticaciónBD
                 {
                     if (textBox1.Text.Equals(renglon.ItemArray[0].ToString()) && textBox2.Text.Equals(renglon.ItemArray[1]))
                     {
-                        MessageBox.Show("Usuario Encontrado");
+                        MessageBox.Show("Usuario Encontradoo");
                     }
                     else
                     {
